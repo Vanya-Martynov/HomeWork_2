@@ -1,0 +1,47 @@
+*{
+	margin:0;
+}
+.test, .test ul{
+	list-style-type: none;
+	background-color: #1a1717;
+	position: absolute;
+	margin:0;
+	line-height: 80px;
+	width: 250px;
+	font-size: 30px;
+	height:800px;
+	float: left;
+	text-transform: uppercase;
+}
+.test a{
+	color:white;
+	text-decoration: none;
+	padding-left:5px;
+}
+.contacts h2{
+	text-decoration-style: bold;
+	float:left;
+	margin-left: 350px;
+	margin-top:70px;
+	font-size:50px;
+}
+.contacts p{
+	float:right;
+	margin-right: 40px;
+	margin-top:40px;
+	line-height: 18px;
+
+}
+.icon{
+	float:left;
+	color:red;
+}
+.icon1{
+	color:red;
+	float:left;
+	font-size: 15px;
+	margin-left:43px;
+}
+.test a:hover{
+	color:#aebf4e;
+}
